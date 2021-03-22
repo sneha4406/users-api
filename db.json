@@ -1,0 +1,614 @@
+{
+	"DailySpeedCons": [
+		{
+			"TDate": "2016-01-01T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.46,
+			"FuelCons": 11.54,
+			"WindForce": 4,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-02T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.62,
+			"FuelCons": 11.9,
+			"WindForce": 6,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-03T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 9.83,
+			"FuelCons": 11.68,
+			"WindForce": 6,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-04T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.71,
+			"FuelCons": 11.84,
+			"WindForce": 6,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-05T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.74,
+			"FuelCons": 11.67,
+			"WindForce": 6,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-06T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.13,
+			"FuelCons": 11.44,
+			"WindForce": 5,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-07T22:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.88,
+			"FuelCons": 11.35,
+			"WindForce": 2,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-08T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.0,
+			"FuelCons": 10.56,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-13T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.94,
+			"FuelCons": 10.95,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-14T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.0,
+			"FuelCons": 11.7,
+			"WindForce": 2,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-15T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.92,
+			"FuelCons": 11.81,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-16T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.17,
+			"FuelCons": 11.61,
+			"WindForce": 6,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-17T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.0,
+			"FuelCons": 11.4,
+			"WindForce": 5,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-18T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.71,
+			"FuelCons": 11.97,
+			"WindForce": 5,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-19T18:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.03,
+			"FuelCons": 12.5,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-23T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.39,
+			"FuelCons": 11.29,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-24T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.19,
+			"FuelCons": 11.84,
+			"WindForce": 6,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-25T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.42,
+			"FuelCons": 11.94,
+			"WindForce": 6,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-26T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.25,
+			"FuelCons": 12.0,
+			"WindForce": 6,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-27T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.13,
+			"FuelCons": 11.99,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-28T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.79,
+			"FuelCons": 11.64,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-29T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.63,
+			"FuelCons": 11.67,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-01-30T20:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 10.63,
+			"FuelCons": 12.63,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-03T23:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.31,
+			"FuelCons": 11.56,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-04T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.75,
+			"FuelCons": 9.36,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-05T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.17,
+			"FuelCons": 11.75,
+			"WindForce": 4,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-06T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.55,
+			"FuelCons": 11.8,
+			"WindForce": 4,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-07T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.08,
+			"FuelCons": 11.84,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-08T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.04,
+			"FuelCons": 11.71,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-09T06:30:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.68,
+			"FuelCons": 12.23,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-17T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.62,
+			"FuelCons": 11.26,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-18T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 13.67,
+			"FuelCons": 11.75,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-22T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.8,
+			"FuelCons": 11.21,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-23T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.0,
+			"FuelCons": 11.31,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-24T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.38,
+			"FuelCons": 11.29,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-25T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.26,
+			"FuelCons": 11.35,
+			"WindForce": 7,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-26T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.63,
+			"FuelCons": 11.18,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-27T05:18:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 13.01,
+			"FuelCons": 11.83,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-02-28T11:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 10.0,
+			"FuelCons": 11.2,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-03T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.4,
+			"FuelCons": 10.97,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-04T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.08,
+			"FuelCons": 11.65,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-05T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.83,
+			"FuelCons": 11.47,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-06T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.64,
+			"FuelCons": 11.45,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-07T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.54,
+			"FuelCons": 11.41,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-08T07:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.26,
+			"FuelCons": 12.01,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-11T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.7,
+			"FuelCons": 10.69,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-12T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.68,
+			"FuelCons": 11.78,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-13T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.33,
+			"FuelCons": 11.7,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-14T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.22,
+			"FuelCons": 11.8,
+			"WindForce": 4,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-15T12:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.96,
+			"FuelCons": 11.16,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-16T06:00:00",
+			"Condtn": "Ballast",
+			"CPSpeed": 13.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.61,
+			"FuelCons": 10.83,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-18T17:30:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.46,
+			"FuelCons": 11.52,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-20T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.32,
+			"FuelCons": 11.49,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-21T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 10.88,
+			"FuelCons": 11.71,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-22T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 12.13,
+			"FuelCons": 11.92,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-23T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.5,
+			"FuelCons": 11.94,
+			"WindForce": 3,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-24T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.25,
+			"FuelCons": 12.43,
+			"WindForce": 4,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-25T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 8.0,
+			"FuelCons": 13.93,
+			"WindForce": 7,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-26T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 9.04,
+			"FuelCons": 13.91,
+			"WindForce": 7,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-27T12:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.33,
+			"FuelCons": 13.67,
+			"WindForce": 4,
+			"DSS": 2
+		},
+		{
+			"TDate": "2016-03-28T00:00:00",
+			"Condtn": "Loaded",
+			"CPSpeed": 12.0,
+			"CPFOC": 22.0,
+			"AvgSpeed": 11.61,
+			"FuelCons": 14.0,
+			"WindForce": 3,
+			"DSS": 2
+		}
+	]
+}
